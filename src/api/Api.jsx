@@ -2,7 +2,7 @@ import axios from "axios";
 
 const instance = axios.create({
   // .. congigure axios baseURL
-  baseURL: "http://localhost:8010/"
+  baseURL: "https://zen-student-dashboard.onrender.com"
 });
 
 // https://zen-backend-h2i1.onrender.com
