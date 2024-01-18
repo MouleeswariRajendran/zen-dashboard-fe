@@ -117,8 +117,8 @@ const Login = () => {
                         </div>
                         <div className="modal-body">
                       <h6>  For Student Login use this ID </h6><br />
-                        <h6 className='mx-5'> Email : koushik4181@gmail.com</h6> <br />
-              <h6 className='mx-5'> password :123456789</h6> <br />
+                        <h6 className='mx-5'> Email : sowbaranikaeswari@gmail.com</h6> <br />
+              <h6 className='mx-5'> password : 123456</h6> <br />
            
 
                         </div>
@@ -136,38 +136,3 @@ const Login = () => {
 };
 
 export default Login;
-
-// <div className='modal-dialog'>
-// <div className='modal-content'>
-//   <div className='modal-header'>
-//     <h4 className='modal-title'>Welcome to Zen Student Dashboard</h4>
-//   </div>
-//   <div className='modal-body'>
-//     for Student Login use below ID or create new one: <br />
-//     <span className='mx-5'> Email : usraising@gmail.com</span> <br />
-//     <span className='mx-5'> password : suriya@123</span> <br />
-//     <span className='mx-5'> Email : usraise@live.com</span> <br />
-//     <span className='mx-5'> password : suriya@123</span> <br />
-//     <hr />
-//     for Mentor Login use below ID
-//     <br />
-//     <span className='mx-5'> Email : mentor@gmail.com</span> <br />
-//     <span className='mx-5'> password : mentor@123</span> <br />
-//     <hr />
-//     <span className='text-secondary text-justify'>
-//       Note: This Student Dashboard project includes features tailored
-//       for students, such as attending classes, submitting tasks,
-//       checking the dashboard, submitting webcode and capstone
-//       projects, raising queries, submitting porfolio, and requesting
-//       leave. Mentor login provides exclusive access for task
-//       evaluation only.
-//     </span>
-//   </div>
-//   <div className='modal-footer'>
-//     <button
-//       type='button'
-//       className='btn btn-danger'
-//       data-bs-dismiss='modal'
-//     >
-//       Close
-//     </button>
