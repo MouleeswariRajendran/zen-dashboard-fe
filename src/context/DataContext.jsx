@@ -85,17 +85,19 @@ export const DataProvider = ({ children }) => {
             setIsLoading(false);
         }
     };
-    //confirm user activate
-    const handleConfirm = (e) => {
+     // handle account confirming
+     const handleConfirm = (e) => {
 
         setIsLoading(true);
 
         e.preventDefault();
         try {
             api.patch(`/student/confirm/${resetToken}`);
-            toast.success("Account verification Successfull");
+            toast.success("Account confirmed Successfully");
             setIsLoading(false);
-            navigate("/");
+            setTimeout(() => {
+                navigate("/");
+            }, 2000);
         } catch (error) {
             if (error.response.data.message) {
                 toast.error(error.response.data.message)
