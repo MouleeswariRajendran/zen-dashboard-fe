@@ -959,61 +959,61 @@ export const roadMapData = [
 export const leaderBoardData = [
     {
         rank: 1,
-        name: "Naveen",
+        name: "chithra",
         batch: "B-52-WDT Tamil",
         learning: "93.10"
     },
     {
         rank: 2,
-        name: "Vignesh",
+        name: "Elizabeth",
         batch: "B-52-WDT Tamil",
         learning: "87.93"
     },
     {
         rank: 3,
-        name: "Sowbaranika",
+        name: "Subhiksha",
         batch: "B-52-WDT Tamil",
         learning: "87.83"
     },
     {
         rank: 4,
-        name: "santhosh",
+        name: "Ajith",
         batch: "B-52-WDT Tamil",
         learning: "86.83"
     },
     {
         rank: 5,
-        name: "Deivanai",
+        name: "Ajith Kumar",
         batch: "B-52-WDT Tamil",
         learning: "85.90"
     },
     {
         rank: 6,
-        name: "Manimozhi",
+        name: "Prem kumar",
         batch: "B-52-WDT Tamil",
         learning: "84.14"
     },
     {
         rank: 7,
-        name: "Prabaharan",
+        name: "Srendhar",
         batch: "B-52-WDT Tamil",
         learning: "80.34"
     },
     {
         rank: 8,
-        name: "eswari ",
+        name: "Karthik Selvi",
         batch: "B-52-WDT Tamil",
         learning: "79.38"
     },
     {
         rank: 9,
-        name: "GUNASHEELAN A",
+        name: "Neshandh",
         batch: "B-52-WDT Tamil",
         learning: "50.86"
     },
     {
         rank: 10,
-        name: "Koushik P",
+        name: "Mouli R",
         batch: "B-52-WDT Tamil",
         learning: "48.10"
     },
