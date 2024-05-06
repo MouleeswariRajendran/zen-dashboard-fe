@@ -117,7 +117,7 @@ const Login = () => {
                         </div>
                         <div className="modal-body">
                       <h6>  For Student Login use this ID </h6><br />
-                        <h6 className='mx-5'> Email : sowbaranikaeswari@gmail.com</h6> <br />
+                        <h6 className='mx-5'> Email : rmouleeswari@gmail.com</h6> <br />
               <h6 className='mx-5'> password : 123456</h6> <br />
            
 
